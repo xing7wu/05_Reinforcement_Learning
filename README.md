@@ -1,2 +1,2 @@
-# 05_Reinforcement_Learning
+# Reinforcement_Learning
 Implementations for Reinforcement_Learning
